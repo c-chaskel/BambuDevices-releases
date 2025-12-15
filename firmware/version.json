@@ -1,12 +1,12 @@
 {
   "printglow": {
-    "version": "0.54",
+    "version": "0.55",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printglow.bin",
-    "changelog": "Consistent PrintGlow heading on all pages"
+    "changelog": "Fixed web UI heading layout to match PrintDeck"
   },
   "printdeck": {
-    "version": "0.58",
+    "version": "0.59",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
-    "changelog": "Fixed touchscreen OTA by disconnecting MQTT before update check"
+    "changelog": "Fixed web UI OTA by disconnecting cloud MQTT before update check"
   }
 }

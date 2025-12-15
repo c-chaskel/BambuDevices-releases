@@ -1,12 +1,12 @@
 {
   "printglow": {
-    "version": "1.0.0",
+    "version": "0.51",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printglow.bin",
-    "changelog": "Initial release"
+    "changelog": "Added OTA firmware update support via System page"
   },
   "printdeck": {
-    "version": "1.0.0",
+    "version": "0.51",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
-    "changelog": "Initial release"
+    "changelog": "Added OTA firmware update support via System page"
   }
 }

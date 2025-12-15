@@ -1,0 +1,12 @@
+{
+  "printglow": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printglow.bin",
+    "changelog": "Initial release"
+  },
+  "printdeck": {
+    "version": "1.0.0",
+    "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
+    "changelog": "Initial release"
+  }
+}

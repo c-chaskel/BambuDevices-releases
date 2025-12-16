@@ -5,8 +5,8 @@
     "changelog": "Fixed web UI heading layout to match PrintDeck"
   },
   "printdeck": {
-    "version": "0.59",
+    "version": "0.60",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
-    "changelog": "Fixed web UI OTA by disconnecting cloud MQTT before update check"
+    "changelog": "Fixed MQTT reconnection after web OTA update check"
   }
 }

@@ -5,8 +5,8 @@
     "changelog": "Fixed web UI heading layout to match PrintDeck"
   },
   "printdeck": {
-    "version": "0.63",
+    "version": "0.64",
     "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
-    "changelog": "Fixed OTA download using simple HTTPClient like PrintGlow"
+    "changelog": "OTA test release"
   }
 }

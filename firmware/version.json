@@ -1,18 +1,18 @@
 {
   "printdeck": {
-    "version": "0.76",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.76/printdeck-0.76.bin",
-    "sha256": "93e3ab3736476284dd3c9787c4874f86fa8a2929de97a413dba980020b278938",
-    "size": 1681520,
-    "signature": "koWMDVbxjx86rSWmpkKq7AwSAC8VeoE12M9Dy-Gr_35OFJdPkyx3F8gKV7VBix4NAbOUR7JGN3D26wLYNrYvsg",
-    "changelog": "Bridge printer-slot filtering, customer USB recovery and local-network/settings-request handling fixes."
+    "version": "0.78",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.78/printdeck-0.78.bin",
+    "sha256": "65212d33466eab785529c5c04b64ae2c0b9c1d58634f600d601901a417101188",
+    "size": 1681936,
+    "signature": "wZfEvB4d1sTO0bBdhRk0VKtQn4fvRhUaKjBAdPqb2xI8ODaOygwnYQ_APtWAIZAz_hHPiYYPrmDquW7Go7kb9Q",
+    "changelog": "Use PSRAM for TLS allocations so firmware downloads retain internal RAM while the display and bridge are active."
   },
   "printglow": {
     "version": "0.91",
     "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
     "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
     "size": 1384800,
-    "signature": "Uymt-8fkivX0P3kUIapiA2SWfx_qfgXl0mLJgLwXn6_IF_WFLKKJzRwwHS4XEmdN1q_FG-nmGhEjCJrhKbzEcg",
+    "signature": "Jf_JirkLX6VqHk_GUJelEdLT6yuMUJzkuWzU-CwkdGpZYsmMHP_87ZntF_646o7dvpMM1pxkF3wM-h7G0t0Gpw",
     "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

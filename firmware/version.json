@@ -1,12 +1,18 @@
 {
-  "printglow": {
-    "version": "0.55",
-    "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printglow.bin",
-    "changelog": "Fixed web UI heading layout to match PrintDeck"
-  },
   "printdeck": {
-    "version": "0.66",
-    "url": "https://raw.githubusercontent.com/c-chaskel/BambuDevices-releases/main/firmware/printdeck.bin",
-    "changelog": "Fix OTA version check memory issue - use simpler HTTPClient"
+    "version": "0.76",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.76/printdeck-0.76.bin",
+    "sha256": "93e3ab3736476284dd3c9787c4874f86fa8a2929de97a413dba980020b278938",
+    "size": 1681520,
+    "signature": "koWMDVbxjx86rSWmpkKq7AwSAC8VeoE12M9Dy-Gr_35OFJdPkyx3F8gKV7VBix4NAbOUR7JGN3D26wLYNrYvsg",
+    "changelog": "Bridge printer-slot filtering, customer USB recovery and local-network/settings-request handling fixes."
+  },
+  "printglow": {
+    "version": "0.91",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
+    "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
+    "size": 1384800,
+    "signature": "Uymt-8fkivX0P3kUIapiA2SWfx_qfgXl0mLJgLwXn6_IF_WFLKKJzRwwHS4XEmdN1q_FG-nmGhEjCJrhKbzEcg",
+    "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

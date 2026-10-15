@@ -1,18 +1,18 @@
 {
   "printdeck": {
-    "version": "0.79",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.79/printdeck-0.79.bin",
-    "sha256": "2ab546e53a67b8a4b8703563f2b7d1c68a7d76946ee265a04394aa9e51b87837",
-    "size": 1682624,
-    "signature": "yW91V7KuiSNJlqGhDlpF3w1_7cYgRB1_UD0Brkz10_y1-u-InCIHoyQK7kl9sXD12Sl2NWDPRHZHgKxBpL4TTg",
-    "changelog": "Reuse verified saved printer photos at startup instead of downloading and rewriting unchanged images."
+    "version": "0.80",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.80/printdeck-0.80.bin",
+    "sha256": "349d91e7356e13a599976fce8cd9b37ddbfaa7b8d49b5dcd21dd3bd3ddd9844a",
+    "size": 1683152,
+    "signature": "4hmSLAQ9zdZoQcVRdkErX1HgJp74Mu9-8XpF2_TgrG3xiJ2BADmHwGuVTogLCeNaXVTd8EOF0G4FkR405aYkiA",
+    "changelog": "Restore automatic Wi-Fi reconnect after setup recovery and retain connection diagnostics in RAM."
   },
   "printglow": {
     "version": "0.91",
     "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
     "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
     "size": 1384800,
-    "signature": "sDTKnudPZv7eK2WgXn80l7vzkyTqm10RDwM7W55KlnXvCsU1JeIcKJle_PIKSKDmZDXan5jASnr5Mwtj2gIMwQ",
+    "signature": "nC1Kz-ZEtZffETAJSHkBi7X5Lryq4a1mkgaPq57xmurzlQ3Y0-2UjgP2Jrwb5sfM6ApgKhkMxMFHaH_HjSpN7g",
     "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

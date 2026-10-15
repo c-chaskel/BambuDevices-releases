@@ -1,18 +1,18 @@
 {
   "printdeck": {
-    "version": "0.82",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.82/printdeck-0.82.bin",
-    "sha256": "808fc817f5804150cd044270590951c0de9b86d9b4641512e2228ef2c457c7e1",
-    "size": 1683104,
-    "signature": "RnMjQASYnDlQfljzB_Z1jeOymK9jn3P-UUOEg-GBRwfWhNt6SWTK930T5j6HRViu6ug69N65_Fncn7-Q4awunA",
-    "changelog": "Apply the actual 16 MHz RGB driver clock and retain local startup and refresh timing diagnostics."
+    "version": "0.81",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.81/printdeck-0.81.bin",
+    "sha256": "1f47973e818c99a8cb8f58d767f8a15dcfe028c94a41d0f99f9cecc627247f4e",
+    "size": 1682144,
+    "signature": "YS1WvBtmglDM7GDEyPo1JIlKR3rDJL3VVWFfcwTTlvMxDPLXBjoZKGyJ8iGawmkYvAYvCRDpZVvvfLB-DvIvCg",
+    "changelog": "Keep display illumination off during startup and OTA flash writes, allow slower initial Wi-Fi joins and wait for browser reconnect."
   },
   "printglow": {
     "version": "0.91",
     "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
     "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
     "size": 1384800,
-    "signature": "MDZNmC4e3E-lftJlzGvqO_nF1fzPkN10H5pHw2Kf429r2DF6jf8mo8W0MgRQ0ikHVXGf3IVcI7l-g-LuWnfGtA",
+    "signature": "QDNMGCvaNoEI64TWmsNKVIIMaBD0g4xnQ57jb9PTqyuUFn4pK53lcSaWxbEkReTFFTJuHyWcmGCeUWeIiR6b5Q",
     "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

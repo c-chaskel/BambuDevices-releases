@@ -1,18 +1,18 @@
 {
   "printdeck": {
-    "version": "0.78",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.78/printdeck-0.78.bin",
-    "sha256": "65212d33466eab785529c5c04b64ae2c0b9c1d58634f600d601901a417101188",
-    "size": 1681936,
-    "signature": "wZfEvB4d1sTO0bBdhRk0VKtQn4fvRhUaKjBAdPqb2xI8ODaOygwnYQ_APtWAIZAz_hHPiYYPrmDquW7Go7kb9Q",
-    "changelog": "Use PSRAM for TLS allocations so firmware downloads retain internal RAM while the display and bridge are active."
+    "version": "0.79",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.79/printdeck-0.79.bin",
+    "sha256": "2ab546e53a67b8a4b8703563f2b7d1c68a7d76946ee265a04394aa9e51b87837",
+    "size": 1682624,
+    "signature": "yW91V7KuiSNJlqGhDlpF3w1_7cYgRB1_UD0Brkz10_y1-u-InCIHoyQK7kl9sXD12Sl2NWDPRHZHgKxBpL4TTg",
+    "changelog": "Reuse verified saved printer photos at startup instead of downloading and rewriting unchanged images."
   },
   "printglow": {
     "version": "0.91",
     "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
     "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
     "size": 1384800,
-    "signature": "Jf_JirkLX6VqHk_GUJelEdLT6yuMUJzkuWzU-CwkdGpZYsmMHP_87ZntF_646o7dvpMM1pxkF3wM-h7G0t0Gpw",
+    "signature": "sDTKnudPZv7eK2WgXn80l7vzkyTqm10RDwM7W55KlnXvCsU1JeIcKJle_PIKSKDmZDXan5jASnr5Mwtj2gIMwQ",
     "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

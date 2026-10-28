@@ -8,11 +8,11 @@
     "changelog": "Faster Wi-Fi recovery and startup, accurate connection status, and preserved display update protection."
   },
   "printglow": {
-    "version": "0.91",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
-    "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
-    "size": 1384800,
-    "signature": "3GX8unI_yBWTHgIhQ7Be8r06tLFIKdY_omPeMXhc3n2VJmHcuwRrwuRbprRAzygxrWGwTZ6HKYA-fyfDCJCkrw",
-    "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
+    "version": "0.93",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.93/printglow-0.93.bin",
+    "sha256": "e5be1c80ec4ed18608f7590aafdcdb72b941f146035f60c22fe0100132d36224",
+    "size": 1387600,
+    "signature": "XmI0U77l-n3GM1O2uZU3pFOTbIqHr2K__ui5lkCSl1ofF6ewgN8g-U07LV-aiNqdSoSdj5gonnJkdHPEkF6rIA",
+    "changelog": "Unique setup identities and more reliable Wi-Fi reconnection across mesh access points; bounded protected-setup recovery."
   }
 }

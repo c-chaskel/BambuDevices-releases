@@ -1,18 +1,18 @@
 {
   "printdeck": {
-    "version": "0.83",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.83/printdeck-0.83.bin",
-    "sha256": "afa718054a918ddc6cf8213495cefd0f96d82bc6e91f629d75337de1464fd33d",
-    "size": 1683184,
-    "signature": "f7TOS1T5TpCyxU4SN0dDhmd6mCGzPcmyKfakk5P-GsKo2Z93Knbt2BMYHHNUtlgxoKg0r4iWzRWTDsyAyzMClg",
-    "changelog": "Hide the display during on-screen updates and recover failed or stalled downloads. Retain the 16 MHz display setup."
+    "version": "0.85",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.85/printdeck-0.85.bin",
+    "sha256": "03c50127465766ee7778e371eeeac840d82e1851e4ea2db0be36c854a851f953",
+    "size": 1685424,
+    "signature": "Z8bQqsDS60VJeEf1BaKqqmvDTeLP4_k51d6zwi3XotdVCM6Q8MK-Svtx-5_GUFtfFmfDtzeaF5muWyxRhNperw",
+    "changelog": "Faster Wi-Fi recovery and startup, accurate connection status, and preserved display update protection."
   },
   "printglow": {
     "version": "0.91",
     "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printglow-0.91/printglow-0.91.bin",
     "sha256": "0dd2f0b5ea5b0391beeb2193b2857333b76844728e5e70a5b77d4558b0a28c6a",
     "size": 1384800,
-    "signature": "1_hIZ4GHblf_Rfl-iLs5bRjPyBNP3HTPX9Q5p-0cVx1znQNXnaxqFfonlxddDK6NzA09CrTjiipZgQItfY76TA",
+    "signature": "3GX8unI_yBWTHgIhQ7Be8r06tLFIKdY_omPeMXhc3n2VJmHcuwRrwuRbprRAzygxrWGwTZ6HKYA-fyfDCJCkrw",
     "changelog": "Reliable idle output, retry of busy LED updates, adjustable dim progress background, RGBW work lights and after-print timer."
   }
 }

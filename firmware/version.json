@@ -1,11 +1,11 @@
 {
   "printdeck": {
-    "version": "0.87",
-    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.87/printdeck-0.87.bin",
-    "sha256": "70602f7db62f877f4a29369ed32d6341308279a244fff564224ae93bc34fcdb9",
-    "size": 1685600,
-    "signature": "IOif7sF9IdK4WRRPojOvEfzBYGy6n5icY9pR91yA0sQTtwlBtWUe2UDTZS7Uj9CTBYLruWJSRMf3buRJyPN18A",
-    "changelog": "Main-loop OTA restart, guarded display shutdown, thread-safe update progress and fast Wi-Fi recovery."
+    "version": "0.83",
+    "url": "https://github.com/c-chaskel/BambuDevices-releases/releases/download/printdeck-0.83/printdeck-0.83.bin",
+    "sha256": "afa718054a918ddc6cf8213495cefd0f96d82bc6e91f629d75337de1464fd33d",
+    "size": 1683184,
+    "signature": "f7TOS1T5TpCyxU4SN0dDhmd6mCGzPcmyKfakk5P-GsKo2Z93Knbt2BMYHHNUtlgxoKg0r4iWzRWTDsyAyzMClg",
+    "changelog": "Hide the display during on-screen updates and recover failed or stalled downloads. Retain the 16 MHz display setup."
   },
   "printglow": {
     "version": "0.93",
